@@ -1,0 +1,42 @@
+h1 {
+  font-size: 63px;
+  color: whitesmoke;
+  padding: 15px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 54px;
+
+  color: #303030;
+  font-weight: 600;
+}
+
+nav li a {
+  padding: 10px;
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+nav li {
+  float: left;
+}
+
+nav ul {
+  float: right;
+  list-style: none;
+}
+
+nav {
+  font-size: 12px;
+  letter-spacing: 4px;
+  height: 50px;
+  background-color: #a72700;
+  padding-right: 40px;
+}
+
+.carousel-caption h5 {
+  font-size: 80px;
+  color: #ffc107;
+  text-shadow: 2px 2px 2px black;
+}
